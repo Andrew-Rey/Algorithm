@@ -1,0 +1,21 @@
+[
+{
+  "directory": "d:\\xrCLang\\Cpp-Data-Struct\\Algorithm\\sort",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/m64", "/EHsc", "/Fobuild\\.objs\\sortlib\\windows\\x64\\src\\DataStructure.cpp.obj", "src\\DataStructure.cpp"],
+  "file": "src\\DataStructure.cpp"
+},
+{
+  "directory": "d:\\xrCLang\\Cpp-Data-Struct\\Algorithm\\sort",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/m64", "/EHsc", "/Fobuild\\.objs\\sortlib\\windows\\x64\\src\\SortFunc.cpp.obj", "src\\SortFunc.cpp"],
+  "file": "src\\SortFunc.cpp"
+},
+{
+  "directory": "d:\\xrCLang\\Cpp-Data-Struct\\Algorithm\\sort",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/m64", "/EHsc", "/Fobuild\\.objs\\sortlib\\windows\\x64\\src\\utils.cpp.obj", "src\\utils.cpp"],
+  "file": "src\\utils.cpp"
+},
+{
+  "directory": "d:\\xrCLang\\Cpp-Data-Struct\\Algorithm\\sort",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/m64", "/EHsc", "/Fobuild\\.objs\\sort\\windows\\x64\\main.cpp.obj", "main.cpp"],
+  "file": "main.cpp"
+}]
